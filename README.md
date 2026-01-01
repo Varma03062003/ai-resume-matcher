@@ -30,6 +30,7 @@ and provides a match score, missing skills, and improvement suggestions.
 pip install -r requirements.txt
 streamlit run app.py
 
+
 ## 📸 Application Screenshots
 
 ### Resume Upload Page
