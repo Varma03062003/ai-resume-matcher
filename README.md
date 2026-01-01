@@ -26,7 +26,6 @@ and provides a match score, missing skills, and improvement suggestions.
 5. Skills are extracted and compared to find gaps
 
 ## ▶ Run Locally
-```bash
 pip install -r requirements.txt
 streamlit run app.py
 
@@ -41,4 +40,5 @@ streamlit run app.py
 
 ### Skills & Missing Skills
 ![Skills Section](screenshots/skills.png)
+
 
