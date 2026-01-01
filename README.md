@@ -29,3 +29,15 @@ and provides a match score, missing skills, and improvement suggestions.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Application Screenshots
+
+### Resume Upload Page
+![Upload Page](screenshots/upload.png)
+
+### Resume Match Score
+![Match Score](screenshots/match_score.png)
+
+### Skills & Missing Skills
+![Skills Section](screenshots/skills.png)
+
